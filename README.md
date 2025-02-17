@@ -11,7 +11,7 @@ Currency Tracker, Flutter ile geliştirilmiş **döviz takip uygulamasıdır**. 
 
 ## 📸 Ekran Görüntüleri
 
-🌟 **Splash Ekranı**  
+🌟 **Lottie Animasyonlu Splash Ekranı**  
 ![Splash Ekranı](./screenshots/splash.png)
 
 🏠 **Ana Sayfa**  
