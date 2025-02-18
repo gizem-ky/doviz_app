@@ -26,14 +26,14 @@ Currency Tracker, Flutter ile geliştirilmiş bir **döviz takip uygulamasıdır
 - 🔄 **Provider** – State management için
 - 🌐 **http** – API istekleri için
 - 📊 **fl_chart** – Grafik ve veri görselleştirme için
-- 🔍 **exchangerate.host API** – Güncel ve geçmiş döviz kurları için
+- 🔍 **Frankfurter API** – Güncel ve geçmiş döviz kurları için
 
 ## 🚀 Kurulum & Çalıştırma
 
 1️⃣ Bu depoyu klonlayın:  
    ```bash
-   git clone https://github.com/yourusername/currency-tracker.git
-   cd currency-tracker
+   git clone https://github.com/gizem-ky/doviz_app.git
+   cd doviz_app
    ```
 2️⃣ Bağımlılıkları yükleyin:  
    ```bash
@@ -46,6 +46,6 @@ Currency Tracker, Flutter ile geliştirilmiş bir **döviz takip uygulamasıdır
 
 ## 🔧 API Konfigürasyonu
 
-Uygulama, döviz kurlarını **exchangerate.host API** üzerinden çeker. **API anahtarı gerekmez** 🚀
+Uygulama, döviz kurlarını **Frankfurter API** üzerinden çeker. **API anahtarı gerekmez** 🚀
 
 
